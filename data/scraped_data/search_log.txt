@@ -1,0 +1,137 @@
+2025-05-08 11:04:27,818 [INFO] Queued up 1656 queries
+2025-05-08 11:04:32,604 [INFO] [Bing] Attempt 1/3: find a nursery Hammersmith and Fulham
+2025-05-08 11:04:39,786 [ERROR] [Bing] Error on 'find a nursery Hammersmith and Fulham': Page.eval_on_selector_all() got an unexpected keyword argument 'timeout'
+2025-05-08 11:04:41,523 [INFO] [Bing] Attempt 2/3: find a nursery Hammersmith and Fulham
+2025-05-08 11:04:41,532 [ERROR] [Bing] Error on 'find a nursery Hammersmith and Fulham': BrowserContext.new_page: Target page, context or browser has been closed
+2025-05-08 11:04:43,678 [INFO] [Bing] Attempt 3/3: find a nursery Hammersmith and Fulham
+2025-05-08 11:04:43,690 [ERROR] [Bing] Error on 'find a nursery Hammersmith and Fulham': BrowserContext.new_page: Target page, context or browser has been closed
+2025-05-08 11:04:43,690 [WARNING] [Bing] Giving up on 'find a nursery Hammersmith and Fulham'
+2025-05-08 11:04:46,727 [INFO] [DuckDuckGo] Attempt 1/3: local authority nurseries Kent
+2025-05-08 11:04:54,402 [ERROR] [DuckDuckGo] Error on 'local authority nurseries Kent': Page.eval_on_selector_all() got an unexpected keyword argument 'timeout'
+2025-05-08 11:04:56,379 [INFO] [DuckDuckGo] Attempt 2/3: local authority nurseries Kent
+2025-05-08 11:04:56,391 [ERROR] [DuckDuckGo] Error on 'local authority nurseries Kent': BrowserContext.new_page: Target page, context or browser has been closed
+2025-05-08 11:04:57,862 [INFO] [DuckDuckGo] Attempt 3/3: local authority nurseries Kent
+2025-05-08 11:04:57,862 [ERROR] [DuckDuckGo] Error on 'local authority nurseries Kent': BrowserContext.new_page: Target page, context or browser has been closed
+2025-05-08 11:04:57,862 [WARNING] [DuckDuckGo] Giving up on 'local authority nurseries Kent'
+2025-05-08 11:05:00,113 [INFO] [DuckDuckGo] Attempt 1/3: early years providers xlsx Nottinghamshire
+2025-05-08 11:05:09,350 [ERROR] [DuckDuckGo] Error on 'early years providers xlsx Nottinghamshire': Page.eval_on_selector_all() got an unexpected keyword argument 'timeout'
+2025-05-08 11:05:12,423 [INFO] [DuckDuckGo] Attempt 2/3: early years providers xlsx Nottinghamshire
+2025-05-08 11:05:12,431 [ERROR] [DuckDuckGo] Error on 'early years providers xlsx Nottinghamshire': BrowserContext.new_page: Target page, context or browser has been closed
+2025-05-08 11:05:14,965 [INFO] [DuckDuckGo] Attempt 3/3: early years providers xlsx Nottinghamshire
+2025-05-08 11:05:14,965 [ERROR] [DuckDuckGo] Error on 'early years providers xlsx Nottinghamshire': BrowserContext.new_page: Target page, context or browser has been closed
+2025-05-08 11:05:14,965 [WARNING] [DuckDuckGo] Giving up on 'early years providers xlsx Nottinghamshire'
+2025-05-08 11:05:16,708 [INFO] [Bing] Attempt 1/3: nursery school websites Nottingham
+2025-05-08 11:05:21,933 [ERROR] [Bing] Error on 'nursery school websites Nottingham': Page.eval_on_selector_all() got an unexpected keyword argument 'timeout'
+2025-05-08 11:05:24,405 [INFO] [Bing] Attempt 2/3: nursery school websites Nottingham
+2025-05-08 11:05:24,414 [ERROR] [Bing] Error on 'nursery school websites Nottingham': BrowserContext.new_page: Target page, context or browser has been closed
+2025-05-08 11:05:25,982 [INFO] [Bing] Attempt 3/3: nursery school websites Nottingham
+2025-05-08 11:05:25,982 [ERROR] [Bing] Error on 'nursery school websites Nottingham': BrowserContext.new_page: Target page, context or browser has been closed
+2025-05-08 11:05:25,982 [WARNING] [Bing] Giving up on 'nursery school websites Nottingham'
+2025-05-08 11:05:28,213 [INFO] [Bing] Attempt 1/3: nursery schools contact list Newham
+2025-05-08 11:05:34,032 [ERROR] [Bing] Error on 'nursery schools contact list Newham': Page.eval_on_selector_all() got an unexpected keyword argument 'timeout'
+2025-05-08 11:05:35,546 [INFO] [Bing] Attempt 2/3: nursery schools contact list Newham
+2025-05-08 11:05:35,550 [ERROR] [Bing] Error on 'nursery schools contact list Newham': BrowserContext.new_page: Target page, context or browser has been closed
+2025-05-08 11:05:37,087 [INFO] [Bing] Attempt 3/3: nursery schools contact list Newham
+2025-05-08 11:05:37,103 [ERROR] [Bing] Error on 'nursery schools contact list Newham': BrowserContext.new_page: Target page, context or browser has been closed
+2025-05-08 11:05:37,103 [WARNING] [Bing] Giving up on 'nursery schools contact list Newham'
+2025-05-08 11:05:39,837 [INFO] [DuckDuckGo] Attempt 1/3: local authority nurseries Barnsley
+2025-05-08 11:05:48,129 [ERROR] [DuckDuckGo] Error on 'local authority nurseries Barnsley': Page.eval_on_selector_all() got an unexpected keyword argument 'timeout'
+2025-05-08 11:05:50,719 [INFO] [DuckDuckGo] Attempt 2/3: local authority nurseries Barnsley
+2025-05-08 11:05:50,735 [ERROR] [DuckDuckGo] Error on 'local authority nurseries Barnsley': BrowserContext.new_page: Target page, context or browser has been closed
+2025-05-08 11:05:53,246 [INFO] [DuckDuckGo] Attempt 3/3: local authority nurseries Barnsley
+2025-05-08 11:05:53,246 [ERROR] [DuckDuckGo] Error on 'local authority nurseries Barnsley': BrowserContext.new_page: Target page, context or browser has been closed
+2025-05-08 11:05:53,246 [WARNING] [DuckDuckGo] Giving up on 'local authority nurseries Barnsley'
+2025-05-08 11:05:55,691 [INFO] [DuckDuckGo] Attempt 1/3: nursery schools csv download Birmingham
+2025-05-08 11:07:25,509 [INFO] Queued up 1644 queries
+2025-05-08 11:07:26,455 [INFO] [DuckDuckGo] Attempt 1/3: nursery schools csv download Barking and Dagenham
+2025-05-08 11:07:34,648 [ERROR] [DuckDuckGo] Error on 'nursery schools csv download Barking and Dagenham': Page.eval_on_selector_all() got an unexpected keyword argument 'timeout'
+2025-05-08 11:07:36,845 [INFO] [DuckDuckGo] Attempt 2/3: nursery schools csv download Barking and Dagenham
+2025-05-08 11:07:36,859 [ERROR] [DuckDuckGo] Error on 'nursery schools csv download Barking and Dagenham': BrowserContext.new_page: Target page, context or browser has been closed
+2025-05-08 11:07:38,857 [INFO] [DuckDuckGo] Attempt 3/3: nursery schools csv download Barking and Dagenham
+2025-05-08 11:07:38,857 [ERROR] [DuckDuckGo] Error on 'nursery schools csv download Barking and Dagenham': BrowserContext.new_page: Target page, context or browser has been closed
+2025-05-08 11:07:38,857 [WARNING] [DuckDuckGo] Giving up on 'nursery schools csv download Barking and Dagenham'
+2025-05-08 11:07:40,080 [INFO] [Bing] Attempt 1/3: nursery schools xlsx file Barnsley
+2025-05-08 11:07:44,465 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - navigating to "https://www.bing.com/search?q=nursery%20schools%20xlsx%20file%20Barnsley&first=1", waiting until "networkidle"\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://www.bing.com/search?q=nursery%20schools%20xlsx%20file%20Barnsley&first=1", waiting until "networkidle"
+
+2025-05-08 11:08:08,561 [INFO] Queued up 1642 queries
+2025-05-08 11:08:09,636 [INFO] [DuckDuckGo] Attempt 1/3: early years providers Leicester
+2025-05-08 11:08:17,873 [ERROR] [DuckDuckGo] Error on 'early years providers Leicester': Page.eval_on_selector_all() got an unexpected keyword argument 'timeout'
+2025-05-08 11:08:20,747 [INFO] [DuckDuckGo] Attempt 2/3: early years providers Leicester
+2025-05-08 11:08:20,750 [ERROR] [DuckDuckGo] Error on 'early years providers Leicester': BrowserContext.new_page: Target page, context or browser has been closed
+2025-05-08 11:08:23,342 [INFO] [DuckDuckGo] Attempt 3/3: early years providers Leicester
+2025-05-08 11:08:23,342 [ERROR] [DuckDuckGo] Error on 'early years providers Leicester': BrowserContext.new_page: Target page, context or browser has been closed
+2025-05-08 11:08:23,342 [WARNING] [DuckDuckGo] Giving up on 'early years providers Leicester'
+2025-05-08 11:08:25,886 [INFO] [Bing] Attempt 1/3: directory records Hillingdon
+2025-05-08 11:08:30,905 [ERROR] [Bing] Error on 'directory records Hillingdon': Page.eval_on_selector_all() got an unexpected keyword argument 'timeout'
+2025-05-08 11:09:21,304 [INFO] Queued up 1640 queries
+2025-05-08 11:09:22,114 [INFO] [DuckDuckGo] Attempt 1/3: nursery providers Bexley
+2025-05-08 11:09:35,699 [INFO] [DuckDuckGo] Got 0 links for 'nursery providers Bexley'
+2025-05-08 11:09:37,032 [INFO] [Bing] Attempt 1/3: nursery schools directory Sheffield
+2025-05-08 11:09:38,113 [INFO] [Bing] Got 25 links for 'nursery schools directory Sheffield'
+2025-05-08 11:09:40,505 [INFO] [DuckDuckGo] Attempt 1/3: nursery providers Lincolnshire
+2025-05-08 11:09:52,498 [INFO] [DuckDuckGo] Got 0 links for 'nursery providers Lincolnshire'
+2025-05-08 11:09:54,260 [INFO] [DuckDuckGo] Attempt 1/3: list of preschools Nottingham
+2025-05-08 11:10:06,149 [INFO] [DuckDuckGo] Got 0 links for 'list of preschools Nottingham'
+2025-05-08 11:10:10,102 [INFO] [Bing] Attempt 1/3: local authority nurseries Northumberland
+2025-05-08 11:10:11,323 [INFO] [Bing] Got 22 links for 'local authority nurseries Northumberland'
+2025-05-08 11:10:13,986 [INFO] [Bing] Attempt 1/3: nursery schools directory Greenwich
+2025-05-08 11:10:15,075 [INFO] [Bing] Got 24 links for 'nursery schools directory Greenwich'
+2025-05-08 11:10:18,557 [INFO] [Bing] Attempt 1/3: directory records Oxfordshire
+2025-05-08 11:10:19,681 [INFO] [Bing] Got 26 links for 'directory records Oxfordshire'
+2025-05-08 11:10:22,568 [INFO] [Bing] Attempt 1/3: nursery schools data download Lambeth
+2025-05-08 11:10:23,425 [INFO] [Bing] Got 20 links for 'nursery schools data download Lambeth'
+2025-05-08 11:10:24,974 [INFO] [DuckDuckGo] Attempt 1/3: nursery schools directory Bristol City of
+2025-05-08 11:10:36,739 [INFO] [DuckDuckGo] Got 0 links for 'nursery schools directory Bristol City of'
+2025-05-08 11:10:38,581 [INFO] [DuckDuckGo] Attempt 1/3: early years providers csv download Enfield
+2025-05-08 11:10:50,354 [INFO] [DuckDuckGo] Got 0 links for 'early years providers csv download Enfield'
+2025-05-08 11:10:52,542 [INFO] [Bing] Attempt 1/3: nursery schools data download Wirral
+2025-05-08 11:10:53,665 [INFO] [Bing] Got 21 links for 'nursery schools data download Wirral'
+2025-05-08 11:10:56,645 [INFO] [Bing] Attempt 1/3: nursery school websites Redbridge
+2025-05-08 11:10:57,737 [INFO] [Bing] Got 24 links for 'nursery school websites Redbridge'
+2025-05-08 11:10:59,970 [INFO] [DuckDuckGo] Attempt 1/3: early years providers csv download Devon
+2025-05-08 11:11:11,722 [INFO] [DuckDuckGo] Got 0 links for 'early years providers csv download Devon'
+2025-05-08 11:11:13,606 [INFO] [DuckDuckGo] Attempt 1/3: list of nursery schools in Milton Keynes
+2025-05-08 11:11:25,289 [INFO] [DuckDuckGo] Got 0 links for 'list of nursery schools in Milton Keynes'
+2025-05-08 11:11:26,806 [INFO] [DuckDuckGo] Attempt 1/3: nursery providers Kent
+2025-05-08 11:11:38,588 [INFO] [DuckDuckGo] Got 0 links for 'nursery providers Kent'
+2025-05-08 11:11:40,758 [INFO] [Bing] Attempt 1/3: nursery schools data download Newcastle upon Tyne
+2025-05-08 11:11:41,616 [INFO] [Bing] Got 21 links for 'nursery schools data download Newcastle upon Tyne'
+2025-05-08 11:11:44,560 [INFO] [Bing] Attempt 1/3: nursery schools csv download Northumberland
+2025-05-08 11:11:45,161 [INFO] [Bing] Got 0 links for 'nursery schools csv download Northumberland'
+2025-05-08 11:11:46,924 [INFO] [DuckDuckGo] Attempt 1/3: nursery schools contact list Harrow
+2025-05-08 11:11:58,643 [INFO] [DuckDuckGo] Got 0 links for 'nursery schools contact list Harrow'
+2025-05-08 11:11:59,888 [INFO] [Bing] Attempt 1/3: list of nursery schools in Bristol City of
+2025-05-08 11:12:00,693 [INFO] [Bing] Got 20 links for 'list of nursery schools in Bristol City of'
+2025-05-08 11:12:03,519 [INFO] [Bing] Attempt 1/3: nursery schools email addresses Hounslow
+2025-05-08 11:12:04,726 [INFO] [Bing] Got 16 links for 'nursery schools email addresses Hounslow'
+2025-05-08 11:12:07,425 [INFO] [Bing] Attempt 1/3: nursery schools contact list Buckinghamshire
+2025-05-08 11:12:08,263 [INFO] [Bing] Got 22 links for 'nursery schools contact list Buckinghamshire'
+2025-05-08 11:12:11,170 [INFO] [DuckDuckGo] Attempt 1/3: early years providers Somerset
+2025-05-08 11:12:22,931 [INFO] [DuckDuckGo] Got 0 links for 'early years providers Somerset'
+2025-05-08 11:12:25,973 [INFO] [Bing] Attempt 1/3: early years providers csv download Derby
+2025-05-08 11:12:26,821 [INFO] [Bing] Got 20 links for 'early years providers csv download Derby'
+2025-05-08 11:12:29,580 [INFO] [DuckDuckGo] Attempt 1/3: early years providers xlsx East Sussex
+2025-05-08 11:12:41,179 [INFO] [DuckDuckGo] Got 0 links for 'early years providers xlsx East Sussex'
+2025-05-08 11:12:43,386 [INFO] [DuckDuckGo] Attempt 1/3: nursery schools csv download Kirklees
+2025-05-08 11:12:55,167 [INFO] [DuckDuckGo] Got 0 links for 'nursery schools csv download Kirklees'
+2025-05-08 11:12:56,606 [INFO] [Bing] Attempt 1/3: early years providers Harrow
+2025-05-08 11:12:57,495 [INFO] [Bing] Got 28 links for 'early years providers Harrow'
+2025-05-08 11:13:00,699 [INFO] [DuckDuckGo] Attempt 1/3: nursery schools data download Hounslow
+2025-05-08 11:13:12,315 [INFO] [DuckDuckGo] Got 0 links for 'nursery schools data download Hounslow'
+2025-05-08 11:13:13,588 [INFO] [Bing] Attempt 1/3: find a nursery Northumberland
+2025-05-08 11:13:14,620 [INFO] [Bing] Got 28 links for 'find a nursery Northumberland'
+2025-05-08 11:13:16,928 [INFO] [Bing] Attempt 1/3: nursery schools database Hillingdon
+2025-05-08 11:13:17,496 [INFO] [Bing] Got 0 links for 'nursery schools database Hillingdon'
+2025-05-08 11:13:20,568 [INFO] [DuckDuckGo] Attempt 1/3: list of preschools Ealing
+2025-05-08 11:13:32,135 [INFO] [DuckDuckGo] Got 0 links for 'list of preschools Ealing'
+2025-05-08 11:13:33,986 [INFO] [DuckDuckGo] Attempt 1/3: nursery schools email addresses Devon
+2025-05-08 11:13:43,590 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - waiting for locator("a[data-testid=\'result-title-a\']") to be visible\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("a[data-testid='result-title-a']") to be visible
+

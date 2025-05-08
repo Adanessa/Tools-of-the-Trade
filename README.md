@@ -1,6 +1,11 @@
 # Tools of the Trade
 A set of helper tools for scraping
 
+How to run generate_search_queries.
+From your project root open cmd and enter: python -m thebing_ducksearchinator_5000.generate_search_queries -i data\dirty_data\test_data.csv
+
+venv\Scripts\python -m thebing_ducksearchinator_5000.run_searches
+
 
 
 ```
