@@ -18,11 +18,11 @@
 
 ## Overview
 
-**Tools of the Trade** is a growing collection of simple-yet-powerful Python scripts designed to supercharge your web scraping adventures. Whether you need to generate a mountain of search queries or blast them at search engines and collect results, we’ve got your back (and your queries).
+**Tools of the Trade** is a growing collection of simple-yet-powerful Python scripts designed to supercharge your web scraping adventures. Whether you need to generate a mountain of search queries or blast them at search engines and collect results, i’ve got your back (and your queries).
 
 *Currently included:*
 
-* **generate\_search\_queries**: Turn a CSV of names (e.g., Local Authorities) into hundreds of Bing & DuckDuckGo search strings effortlessly.
+* **generate\_search\_queries**: Turn a CSV of terms (e.g., Local Authorities, Xbox, PlayStation, Nintendo, or any custom list) into hundreds of Bing & DuckDuckGo search strings effortlessly.
 * **run\_searches**: Fire off those queries via Playwright, handle retries with back-off, checkpoint completed queries, and save results to JSON.
 
 More tools are brewing in the cauldron 🔮 – stay tuned!
@@ -44,7 +44,7 @@ More tools are brewing in the cauldron 🔮 – stay tuned!
 1. **Clone this repo**
 
    ```bash
-   git clone https://github.com/yourusername/tools-of-the-trade.git
+   git clone https://github.com/Adanessa/tools-of-the-trade.git
    cd tools-of-the-trade
    ```
 2. **Create a virtual environment & activate it**
@@ -66,7 +66,7 @@ More tools are brewing in the cauldron 🔮 – stay tuned!
 
 ### Generate Search Queries
 
-1. Prepare your CSV (it should have a column like `LA (name)`).
+1. Prepare your CSV with a column of items you want to query (e.g., `LA (name)`, `ConsoleName`, `Product`, or anything else).
 2. Run:
 
    ```bash
