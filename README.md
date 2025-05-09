@@ -18,7 +18,7 @@
 
 ## Overview
 
-**Tools of the Trade** is a growing collection of simple-yet-powerful Python scripts to supercharge your data scraping and validation adventures. From crafting search queries to verifying email deliverability, we’ve got your back—and your data.
+**Tools of the Trade** is a growing collection of simple-yet-powerful Python scripts to supercharge your data scraping and validation adventures. From crafting search queries to verifying email deliverability, i’ve got your back—and your data.
 
 _Currently included:_
 
